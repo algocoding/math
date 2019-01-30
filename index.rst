@@ -16,7 +16,6 @@
 
 .. toctree::
     :maxdepth: 1
-    :caption: 수이론
     
     erathosthenes
 

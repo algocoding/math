@@ -43,7 +43,7 @@
 .. figure:: img/erathos4.png
    :scale: 80%
 
-5. **7을 선택하고, 7의 배수들을 제외한다.
+5. **7** 을 선택하고, 7의 배수들을 제외한다.
 
 .. figure:: img/erathos5.png
    :scale: 80%
