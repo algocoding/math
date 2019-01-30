@@ -59,7 +59,7 @@ source_suffix = ['.rst', '.txt']
 master_doc = 'index'
 
 # General information about the project.
-project = 'python'
+project = 'math'
 copyright = '2017, JongYun Jung'
 author = 'algocoding.net@gmail.com'
 
