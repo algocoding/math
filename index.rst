@@ -16,7 +16,8 @@
 
 .. toctree::
     :maxdepth: 1
-    
+
+    factor
     erathosthenes
 
 
